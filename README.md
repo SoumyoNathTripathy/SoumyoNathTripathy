@@ -42,8 +42,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tandrimasingha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimasingha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoumyoNathTripathy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Soumyo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyoNathTripathy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/tandrimasingha/github-readme-activity-graph"><img alt="Tandrima Singha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tandrimasingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SoumyoNathTripathy/github-readme-activity-graph"><img alt="Soumyo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyoNathTripathy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,14 +60,14 @@
 <p align="centre">
 
 
-<a href = "https://www.linkedin.com/in/tandrima-singha-20b2091b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/TandrimaSingha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/soumyo-nath-tripathy-55b366208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/22Aiml"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤️ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tandrimasingha">
+    <img src="https://komarev.com/ghpvc/?username=SoumyoNathTripathy">
 </a>
-<a href="https://github.com/tandrimasingha?tab=followers"><img src="https://img.shields.io/github/followers/tandrimasingha?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SoumyoNathTripathy?tab=followers"><img src="https://img.shields.io/github/followers/SoumyoNathTripathy?label=Followers&style=social" alt="GitHub Badge"></a>

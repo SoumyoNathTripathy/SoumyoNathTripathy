@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Tandrima IEM, [25.10.21 02:16]
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tandrima Singha </h1>
-<h3 align="center">I'm a passionate Machine learning & Data Analyst enthusiast.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm **Soumyo Nath Tripathy** </h1>
+<h3 align="center">**Happy Songs-Good Code-Tasty Food and Gym , THATS ME!**</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -15,7 +15,7 @@ Tandrima IEM, [25.10.21 02:16]
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 📫 How to reach me tandrimasingha419@gmail.com
+- 📫 How to reach me soumyonath25@gmail.com
 
 
 
@@ -25,7 +25,7 @@ Tandrima IEM, [25.10.21 02:16]
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+ 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://www.geeksforgeeks.org/machine-learning/" target="_blank"> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/50/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png"/></a>
 
@@ -35,8 +35,8 @@ Tandrima IEM, [25.10.21 02:16]
 <br/>
 
 <p align="center">
-    <a href="https://github.com/tandrimasingha/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tandrimasingha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/SoumyoNathTripathy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Soumyo Nath Tripathy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyoNathTripathy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -60,7 +60,7 @@ Tandrima IEM, [25.10.21 02:16]
 ## Connect with me:
 <p align="centre">
 
-Tandrima IEM, [25.10.21 02:16]
+
 <a href = "https://www.linkedin.com/in/tandrima-singha-20b2091b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/TandrimaSingha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>

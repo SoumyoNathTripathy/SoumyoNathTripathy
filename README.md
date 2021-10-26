@@ -4,18 +4,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
-<h3 align="center">Happy Songs-Good Code-Tasty Food and Gym , THATS ME!</h3>
+<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in IEM,Kokata
+- 🔭 I’m currently studying in IEM,Kokata.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning Machine Learning & Datastructure.
 
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 📫 How to reach me soumyonath25@gmail.com
+- 📫 How to reach me soumyonath25@gmail.com.
 
 
 
@@ -66,7 +66,8 @@
 
 </p>
 
-## ❤️ Views and Followers
+## Do Follow me and ❤️ Star the repositories if you find it useful.
+## Thankyou
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SoumyoNathTripathy">
 </a>

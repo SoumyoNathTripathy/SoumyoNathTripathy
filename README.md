@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Machine Learning , Datastructure & Data Analytics.
 
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking to collaborate on OpenSource Projects.
 
 - 📫 How to reach me soumyonath25@gmail.com.
 

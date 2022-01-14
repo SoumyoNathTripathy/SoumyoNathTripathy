@@ -28,6 +28,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://www.geeksforgeeks.org/machine-learning/" target="_blank"> <img src="https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/50/000000/external-machine-learning-data-processing-inipagistudio-mixed-inipagistudio.png"/></a>
+     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/></a>
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png"/> </a>
     
 </p>
 

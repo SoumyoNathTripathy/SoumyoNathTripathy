@@ -1,5 +1,6 @@
 ###  Hello there 👋
 
+![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
 

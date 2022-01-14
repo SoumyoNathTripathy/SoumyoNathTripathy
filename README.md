@@ -1,8 +1,8 @@
-###  Hello there 👋
+
 
 ![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
+###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
 
 
 <h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
@@ -10,13 +10,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in IEM,Kokata.
+- 🔭 I’m a 2nd year student in IEM,Kokata.
 
 - 🌱 I’m currently learning Machine Learning , Datastructure & Data Analytics.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
 - 📫 How to reach me soumyonath25@gmail.com.
+
+- ❤️ 5 star @Hackerrank , 2 star @CodeChef.
 
 
 

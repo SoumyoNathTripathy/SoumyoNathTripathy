@@ -18,7 +18,7 @@
 
 - 📫 How to reach me soumyonath25@gmail.com.
 
-- ❤️ 5 star @Hackerrank , 3 star @CodeChef, 1star @Leetcode.
+- ❤️ 5 star @Hackerrank
 
 
 

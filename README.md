@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a 2nd year UnderGrad in IEM,Kokata.
+- 🔭 I’m a 3rd year UnderGrad in IEM,Kokata.
 
 - 🌱 I’m currently learning Machine Learning , Datastructure & Data Analytics.
 

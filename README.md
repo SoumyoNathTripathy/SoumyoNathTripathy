@@ -31,7 +31,7 @@
 - :student: I’m currently learning `Data Sience` and `Database Management`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1lhO50Fwr48q8aTkLeUM8y2PXc-qvvAbD/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE](https://soumyonathtripathy.dorik.io/).
 <br>
 
 

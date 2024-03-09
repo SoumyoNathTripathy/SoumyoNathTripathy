@@ -23,7 +23,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
+- :school: I am  currently working as an `Application Developer` at [IBM Pvt.Ltd](https://www.ibm.com/in-en/careers).
 - :school: I am a `final year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [IEM,Kolkata](https://iem.edu.in/).
 - :trophy: 4x `Hackathons` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.

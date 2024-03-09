@@ -24,14 +24,14 @@
 
 <br><br>
 
-- :school: I am a `3rd year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [IEM,Kolkata](https://iem.edu.in/).
+- :school: I am a `final year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [IEM,Kolkata](https://iem.edu.in/).
 - :trophy: 4x `Hackathons` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer at `GFG`, `Google Colab`, `Leetcode`, `Kaggle`.
-- :student: I’m currently learning `Data Sience` and `Database Management`.
+- :student: I’m currently learning `ASP.NET Core` and `AWS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](xyz).
-- :boom: You can visit [MY WEBSITE](xyz).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1vTujaCSwwzEYWeCigE1uecfPZ6HoVoeE/view?usp=sharing).
+- :boom: You can visit [MY Linkedin](https://www.linkedin.com/in/soumyo2001/).
 <br>
 
 
